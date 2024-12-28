@@ -1,4 +1,4 @@
 Hi There,
 push to new branch.
 Added a new feature in the git 
-new point for testing 
+new point for testing feature branch after deleteing it .
